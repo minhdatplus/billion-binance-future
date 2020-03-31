@@ -1,10 +1,10 @@
-# spring-boot-thymeleaf-staradmin-demo
+# Billionair-binance-future
 
-Spring Boot with Thymeleaf and Star Admin 
+Billionair Binance Future 
 
 ## Installation
 
-`git clone https://github.com/farhanatsani/WebAdminExample.git`
+`https://github.com/minhdatplus/billionair-binance-future.git`
 
 `cd WebAdminExample`
 
@@ -12,4 +12,4 @@ Spring Boot with Thymeleaf and Star Admin
 
 `cd target`
 
-`java -jar WebAdminExample-0.0.1-SNAPSHOT.jar`
+`java -jar billionair-binance-future-0.0.1-SNAPSHOT.jar`
