@@ -6,7 +6,7 @@ Billionair Binance Future
 
 `https://github.com/minhdatplus/billionair-binance-future.git`
 
-`cd WebAdminExample`
+`cd billionair-binance-future`
 
 `mvn clean install`
 

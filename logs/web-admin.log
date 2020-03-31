@@ -114,3 +114,5 @@
 2020-03-31 14:59:03.063  WARN 31671 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'LEGACYHTML5' is deprecated. Using Template Mode 'HTML' instead.
 2020-03-31 14:59:03.251  INFO 31671 --- [main] ngBootThymeleafStarAdminApplicationTests : Started SpringBootThymeleafStarAdminApplicationTests in 3.175 seconds (JVM running for 4.191)
 2020-03-31 14:59:03.507  INFO 31671 --- [Thread-3] o.s.w.c.s.GenericWebApplicationContext   : Closing org.springframework.web.context.support.GenericWebApplicationContext@7d900ecf: startup date [Tue Mar 31 14:59:00 ICT 2020]; root of context hierarchy
+2020-03-31 15:04:12.267  INFO 31385 --- [Thread-28] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@215f1185: startup date [Tue Mar 31 14:58:54 ICT 2020]; root of context hierarchy
+2020-03-31 15:04:12.269  INFO 31385 --- [Thread-28] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
